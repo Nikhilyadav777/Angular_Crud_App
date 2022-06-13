@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "Name": "Ram",
+      "Email": "das@gmail.com",
+      "Mobile": 1325677654,
+      "Fees": "2435"
+    },
+    {
+      "id": 4,
+      "Name": "shyam",
+      "Email": "shyam@gmail.com",
+      "Mobile": 9876543212,
+      "Fees": "67000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
